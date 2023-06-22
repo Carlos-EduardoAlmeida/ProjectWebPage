@@ -5,8 +5,8 @@ This is a project carried out having a real page as inspiration for the creation
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;
+  <a href="#🚀-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#💻-project">Project</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
@@ -23,7 +23,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-This project is a page redesign webpage used for sales. It has an interactive navigation bar, banner with floating button, product catalog and footer with contact and social networks.
+This Web page is the redesign of an existing web page used for online sales. It has an interactive navigation bar, banner with floating button, product catalog and footer with contact and social networks.
 
 Interactive navigation buttons. interactive catalog images. social media icons with hover
 

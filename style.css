@@ -1,5 +1,7 @@
 body{
-    width: 800px;
+    width: 65%;
+    min-width: 800px;
+    max-width: 3840px;
     margin: 0.5 auto;
     font-family: serif, Georgia, 'Times New Roman', Times;
 }
@@ -12,7 +14,7 @@ article{
 }
 
 header{
-    width: 800px;
+    width: 100%;
     height: 50px;
     background-color: #FCEBF4;
 }
@@ -55,23 +57,27 @@ nav ul li a:hover{
 
 /* Banner e botão*/
 
-.banner img{
-    width: 800px;
+.banner{
+    width: 100%;
+    height: 320px;
+    background-image: url(./Images/Banner3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid white;
+    text-align: center;
 }
 
-.banner p, .banner a button{
+.banner p{
     font-size: 2.7em;
-    text-align: center;
-    position: absolute;
-    top: 35%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     color: white;
+    margin-top: 160px;
 }
+
 
 .banner a button{
+    color: white;
+    margin-top: -35px;
     cursor: pointer;
-    top: 50%;
     font-size: 1.3em;
     background-color: transparent;
     width: 100px;
@@ -124,7 +130,7 @@ aside li img:hover{
 /* Footer */
 
 footer{
-    width: 800px;
+    width: 100%;
     height: 200px;
     background-color: #FCEBF4;
     border: 1px solid white;
